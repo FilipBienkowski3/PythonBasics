@@ -1,1 +1,1 @@
-# PythonBasics
+# WDI - Wstęp do informatyki
